@@ -1,0 +1,12 @@
+.cell {
+	display: inline-block;
+}
+
+.row {
+	display: flex;
+	width: 960px;
+}
+
+.filled {
+	background-color: black;
+}
